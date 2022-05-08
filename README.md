@@ -4,7 +4,7 @@ This program is designed to help people write their workouts for each day of the
 by using a random number generator to write the workouts and the amount of reps they 
 should do per workout
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/weAglyG-fbM)
 
 # Development Environment
 
